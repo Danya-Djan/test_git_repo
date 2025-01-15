@@ -1,5 +1,0 @@
-changed.txt
-deleted_files.txt
-new_files.txt
-script.sh
-updated_files.txt
